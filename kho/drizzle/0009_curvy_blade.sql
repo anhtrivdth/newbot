@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `account_bot_connections_bot_id_unique` ON `account_bot_connections` (`bot_id`);

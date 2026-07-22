@@ -1,0 +1,5 @@
+import { errorResponse } from "../../../../lib/http";
+import { runtime } from "../../../../lib/runtime";
+import { currentUser,hashPassword } from "../../../../lib/user-auth";
+
+export async function POST(request:Request){try{const user=await currentUser(request);if(!user)return Response.json({error:"Vui lòng đăng nhập"},{status:401});const {password,confirmPassword}=await request.json() as {password?:string;confirmPassword?:string};if(!password||password.length<8)return Response.json({error:"Mật khẩu mới phải có ít nhất 8 ký tự"},{status:400});if(password!==confirmPassword)return Response.json({error:"Mật khẩu xác nhận không khớp"},{status:400});if(password==="123456")return Response.json({error:"Không được tiếp tục sử dụng mật khẩu tạm"},{status:400});const value=await hashPassword(password);await runtime().DB.prepare("UPDATE users SET password_hash=?,password_salt=?,must_change_password=0 WHERE id=?").bind(value.hash,value.salt,user.id).run();return Response.json({ok:true})}catch(error){return errorResponse(error)}}

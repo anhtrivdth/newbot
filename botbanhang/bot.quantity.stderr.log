@@ -1,0 +1,218 @@
+2026-07-22 14:32:30,147 INFO HTTP Request: GET http://localhost:3000/api/bot/config "HTTP/1.1 200 OK"
+2026-07-22 14:32:32,668 INFO Start polling
+2026-07-22 14:32:32,733 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:32:32,825 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:32:32,924 INFO Run polling for bot @dhasjdh_bot id=8220761669 - 'Qu\u1ea3n lý'
+2026-07-22 14:32:33,423 INFO Run polling for bot @n8nphancongtribot id=8723246369 - 's\u1ea3n ph\u1ea9m'
+2026-07-22 14:32:37,813 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:32:37,896 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:32:42,872 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:32:42,956 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:32:47,930 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:32:48,006 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:32:52,974 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:32:53,046 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:32:58,013 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:32:58,096 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:03,063 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:33:03,163 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:08,105 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:33:08,196 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:13,173 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:33:13,263 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:18,227 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:33:18,313 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:23,280 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:33:23,363 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:28,330 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:33:28,430 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:33,407 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:33:33,513 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:38,455 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:33:38,580 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:43,513 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:33:43,657 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:48,563 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:33:48,730 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:51,748 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:52,656 INFO Update id=843104013 is handled. Duration 985 ms by bot id=8220761669
+2026-07-22 14:33:53,605 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:33:53,806 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:57,630 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:58,049 INFO Update id=843104014 is handled. Duration 889 ms by bot id=8220761669
+2026-07-22 14:33:58,657 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:33:58,873 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:58,965 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:33:59,382 INFO Update id=843104015 is handled. Duration 937 ms by bot id=8220761669
+2026-07-22 14:34:02,107 INFO HTTP Request: POST http://localhost:3000/api/bot/orders "HTTP/1.1 409 Conflict"
+2026-07-22 14:34:02,605 INFO Update id=843104016 is handled. Duration 969 ms by bot id=8220761669
+2026-07-22 14:34:03,698 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:34:03,932 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:34:08,739 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:34:09,007 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:34:13,772 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:34:14,057 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:34:18,806 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:34:19,123 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:34:23,856 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:34:24,178 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:34:28,906 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:34:29,241 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:34:33,950 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:34:34,283 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:34:39,006 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:34:39,334 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:34:44,033 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:34:44,383 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:34:49,072 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:34:49,442 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:34:54,132 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:34:54,492 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:34:59,165 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:34:59,534 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:35:04,232 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:35:04,584 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:35:09,277 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:35:09,625 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:35:14,331 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:35:14,667 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:35:19,368 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:35:19,710 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:35:24,415 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:35:24,748 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:35:29,451 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:35:29,807 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:35:34,490 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:35:34,868 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:35:39,515 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:35:39,925 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:35:44,560 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:35:44,975 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:35:49,598 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:35:50,052 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:35:54,732 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:35:55,085 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:35:59,890 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:36:00,140 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:36:05,044 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:36:05,194 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:36:10,091 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:36:10,237 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:36:15,132 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:36:15,278 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:36:20,191 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:36:20,333 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:36:25,232 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:36:25,370 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:36:30,256 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:36:30,428 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:36:35,274 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:36:35,460 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:36:40,339 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:36:40,558 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:36:45,357 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:36:45,621 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:36:50,408 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:36:50,683 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:36:55,575 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:36:55,750 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:37:00,624 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:37:00,807 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:37:05,658 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:37:05,873 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:37:10,699 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:37:10,925 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:37:15,750 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:37:15,975 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:37:20,791 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:37:21,040 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:37:25,830 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:37:25,831 ERROR Không th\u1ec3 giao \u0111\u01a1n NFMRVRS1GT4381, s\u1ebd th\u1eed l\u1ea1i
+Traceback (most recent call last):
+  File "D:\Code\botnf\botbanhang\app\main.py", line 455, in payment_watcher
+    await deliver_order(order["code"], order["telegram_user_id"], int(order["telegram_chat_id"]))
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'codex-cooldown-1784705842361'
+2026-07-22 14:37:25,846 ERROR Không th\u1ec3 giao \u0111\u01a1n NFMRVRS1P5301E, s\u1ebd th\u1eed l\u1ea1i
+Traceback (most recent call last):
+  File "D:\Code\botnf\botbanhang\app\main.py", line 455, in payment_watcher
+    await deliver_order(order["code"], order["telegram_user_id"], int(order["telegram_chat_id"]))
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'codex-admin-exempt-1784705842361'
+2026-07-22 14:37:25,846 ERROR Không th\u1ec3 giao \u0111\u01a1n NFMRVRS1SQ376E, s\u1ebd th\u1eed l\u1ea1i
+Traceback (most recent call last):
+  File "D:\Code\botnf\botbanhang\app\main.py", line 455, in payment_watcher
+    await deliver_order(order["code"], order["telegram_user_id"], int(order["telegram_chat_id"]))
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'codex-admin-exempt-1784705842361'
+2026-07-22 14:37:26,092 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:37:30,892 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:37:30,893 ERROR Không th\u1ec3 giao \u0111\u01a1n NFMRVRS1GT4381, s\u1ebd th\u1eed l\u1ea1i
+Traceback (most recent call last):
+  File "D:\Code\botnf\botbanhang\app\main.py", line 455, in payment_watcher
+    await deliver_order(order["code"], order["telegram_user_id"], int(order["telegram_chat_id"]))
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'codex-cooldown-1784705842361'
+2026-07-22 14:37:30,894 ERROR Không th\u1ec3 giao \u0111\u01a1n NFMRVRS1P5301E, s\u1ebd th\u1eed l\u1ea1i
+Traceback (most recent call last):
+  File "D:\Code\botnf\botbanhang\app\main.py", line 455, in payment_watcher
+    await deliver_order(order["code"], order["telegram_user_id"], int(order["telegram_chat_id"]))
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'codex-admin-exempt-1784705842361'
+2026-07-22 14:37:30,895 ERROR Không th\u1ec3 giao \u0111\u01a1n NFMRVRS1SQ376E, s\u1ebd th\u1eed l\u1ea1i
+Traceback (most recent call last):
+  File "D:\Code\botnf\botbanhang\app\main.py", line 455, in payment_watcher
+    await deliver_order(order["code"], order["telegram_user_id"], int(order["telegram_chat_id"]))
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'codex-admin-exempt-1784705842361'
+2026-07-22 14:37:31,146 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:37:35,924 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:37:35,926 ERROR Không th\u1ec3 giao \u0111\u01a1n NFMRVRS1GT4381, s\u1ebd th\u1eed l\u1ea1i
+Traceback (most recent call last):
+  File "D:\Code\botnf\botbanhang\app\main.py", line 455, in payment_watcher
+    await deliver_order(order["code"], order["telegram_user_id"], int(order["telegram_chat_id"]))
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'codex-cooldown-1784705842361'
+2026-07-22 14:37:35,927 ERROR Không th\u1ec3 giao \u0111\u01a1n NFMRVRS1P5301E, s\u1ebd th\u1eed l\u1ea1i
+Traceback (most recent call last):
+  File "D:\Code\botnf\botbanhang\app\main.py", line 455, in payment_watcher
+    await deliver_order(order["code"], order["telegram_user_id"], int(order["telegram_chat_id"]))
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'codex-admin-exempt-1784705842361'
+2026-07-22 14:37:35,927 ERROR Không th\u1ec3 giao \u0111\u01a1n NFMRVRS1SQ376E, s\u1ebd th\u1eed l\u1ea1i
+Traceback (most recent call last):
+  File "D:\Code\botnf\botbanhang\app\main.py", line 455, in payment_watcher
+    await deliver_order(order["code"], order["telegram_user_id"], int(order["telegram_chat_id"]))
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'codex-admin-exempt-1784705842361'
+2026-07-22 14:37:36,200 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:37:40,971 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:37:40,973 ERROR Không th\u1ec3 giao \u0111\u01a1n NFMRVRS1GT4381, s\u1ebd th\u1eed l\u1ea1i
+Traceback (most recent call last):
+  File "D:\Code\botnf\botbanhang\app\main.py", line 455, in payment_watcher
+    await deliver_order(order["code"], order["telegram_user_id"], int(order["telegram_chat_id"]))
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'codex-cooldown-1784705842361'
+2026-07-22 14:37:40,974 ERROR Không th\u1ec3 giao \u0111\u01a1n NFMRVRS1P5301E, s\u1ebd th\u1eed l\u1ea1i
+Traceback (most recent call last):
+  File "D:\Code\botnf\botbanhang\app\main.py", line 455, in payment_watcher
+    await deliver_order(order["code"], order["telegram_user_id"], int(order["telegram_chat_id"]))
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'codex-admin-exempt-1784705842361'
+2026-07-22 14:37:40,974 ERROR Không th\u1ec3 giao \u0111\u01a1n NFMRVRS1SQ376E, s\u1ebd th\u1eed l\u1ea1i
+Traceback (most recent call last):
+  File "D:\Code\botnf\botbanhang\app\main.py", line 455, in payment_watcher
+    await deliver_order(order["code"], order["telegram_user_id"], int(order["telegram_chat_id"]))
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'codex-admin-exempt-1784705842361'
+2026-07-22 14:37:40,975 ERROR Không th\u1ec3 giao \u0111\u01a1n NFMRVRSEZA6D76, s\u1ebd th\u1eed l\u1ea1i
+Traceback (most recent call last):
+  File "D:\Code\botnf\botbanhang\app\main.py", line 455, in payment_watcher
+    await deliver_order(order["code"], order["telegram_user_id"], int(order["telegram_chat_id"]))
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'codex-cooldown-1784705842361'
+2026-07-22 14:37:41,250 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:37:46,021 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:37:46,309 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"
+2026-07-22 14:37:51,071 INFO HTTP Request: GET http://localhost:3000/api/bot/orders?status=PAID "HTTP/1.1 200 OK"
+2026-07-22 14:37:51,366 INFO HTTP Request: GET http://localhost:3000/api/bot/products "HTTP/1.1 200 OK"

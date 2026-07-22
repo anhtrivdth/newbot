@@ -1,0 +1,1 @@
+DROP INDEX `order_items_stock_item_id_unique`;
