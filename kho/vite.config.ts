@@ -47,6 +47,7 @@ export default defineConfig(async () => {
     server: {
       port: 3001,
       strictPort: true,
+      allowedHosts: ["kho.phancongtri.dev"],
       ...(isCodexSeatbeltSandbox
         ? { watch: { useFsEvents: false, usePolling: true } }
         : {}),
