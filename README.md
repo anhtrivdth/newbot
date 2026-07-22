@@ -48,7 +48,7 @@ python -m venv .venv
 pip install -r requirements.txt
 Copy-Item .env.example .env
 # Chỉ cần cấu hình KHO_API_URL và KHO_BOT_API_TOKEN
-python -m app.main
+python -m app.supervisor
 ```
 
 `KHO_BOT_API_TOKEN` phải giống `BOT_API_TOKEN` trong dịch vụ kho.
