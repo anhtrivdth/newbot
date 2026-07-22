@@ -85,6 +85,13 @@
       "when": 1784712000000,
       "tag": "0011_username_accounts",
       "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "6",
+      "when": 1784715000000,
+      "tag": "0012_seed_admin_account",
+      "breakpoints": true
     }
   ]
 }
